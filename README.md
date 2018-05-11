@@ -1,5 +1,15 @@
 # Quick Setup
 
+Clone this repo, then:
+```sh
+$ dotnet build
+$ dotnet run
+```
+
+
+# Manual Setup
+
+To build from scratch:
 ```sh
 $ dotnet new console -lang F# -n MyApp
 $ cd MyApp
